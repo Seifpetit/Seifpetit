@@ -1,11 +1,4 @@
-<!-- Profile README for github.com/Seifpetit. Put this file and banner.png in a public repo named Seifpetit/Seifpetit. -->
-<!-- 
-<p align="center">
-  <a href="https://seifpetit.github.io/Portfolio-room/">
-    <img src="banner.png" alt="A pixel-art room with a capybara in a teal hoodie: the tech lab, a bed, a gym corner and a desk with a trophy" width="100%">
-  </a>
-</p>
--->
+<!-- Profile README for github.com/Seifpetit. Put this file in a public repo named Seifpetit/Seifpetit. -->
 
 <h1 align="center">Hi, I'm Seif Jlassi 👋</h1>
 
