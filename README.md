@@ -17,7 +17,7 @@
 
 ## What I do
 
-- 🧰 **Tools people actually use:** editors, dashboards and automations that turn a messy workflow into a few clicks.
+- 🧰 **Tools to help people naviguate workflows:** editors, dashboards and automations that turn a messy workflow into a few clicks.
 - 🗺️ **Spatial and interactive systems:** canvas scenes, pathfinding, hotspots and animation that react to the visitor.
 - 🧭 **Clarity first:** every screen has one job, and what it does is obvious in seconds.
 
