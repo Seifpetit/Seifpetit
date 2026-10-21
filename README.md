@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>I build interaction-heavy tools, custom editors and spatial interfaces.</b><br>
-  Focused on clarity, workflow and automation. Based in Dortmund, Germany.
+  Focused on building trustworthy automation systems. Based in Dortmund, Germany.
 </p>
 
 <p align="center">
