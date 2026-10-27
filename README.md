@@ -10,11 +10,11 @@
 <!-- Main spotlight: the video and the live portfolio. GitHub can't embed YouTube players, so the thumbnail is a
      clickable image that YouTube serves from the video id. -->
 <p align="center">
-  <a href="https://youtu.be/1OpvXEW5M64"><img src="https://img.youtube.com/vi/1OpvXEW5M64/maxresdefault.jpg" alt="Play the video on YouTube" width="640"></a>
+  <a href="https://youtu.be/bQBtzNskxcs"><img src="https://img.youtube.com/vi/bQBtzNskxcs/maxresdefault.jpg" alt="Play the video on YouTube" width="640"></a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/1OpvXEW5M64"><img alt="Watch on YouTube" src="https://img.shields.io/badge/▶%20Watch%20on-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120e1a"></a>
+  <a href="https://youtu.be/bQBtzNskxcs"><img alt="Watch on YouTube" src="https://img.shields.io/badge/▶%20Watch%20on-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120e1a"></a>
   <a href="https://seifpetit.github.io/Portfolio-room/"><img alt="Try the live demo" src="https://img.shields.io/badge/Try%20the%20live%20demo-seifpetit.github.io-7fe0c3?style=for-the-badge&labelColor=120e1a"></a>
 </p>
 
