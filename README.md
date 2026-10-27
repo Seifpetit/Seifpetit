@@ -7,38 +7,35 @@
   Focused on building trustworthy automation systems. Based in Dortmund, Germany.
 </p>
 
+<!-- Main spotlight: the video and the live portfolio. GitHub can't embed YouTube players, so the thumbnail is a
+     clickable image that YouTube serves from the video id. -->
 <p align="center">
-  <a href="https://seifpetit.github.io/Portfolio-room/"><img alt="Portfolio" src="https://img.shields.io/badge/Walk%20through%20my%20portfolio-seifpetit.github.io-7fe0c3?style=for-the-badge&labelColor=120e1a"></a>
+  <a href="https://youtu.be/1OpvXEW5M64"><img src="https://img.youtube.com/vi/1OpvXEW5M64/maxresdefault.jpg" alt="Play the video on YouTube" width="640"></a>
 </p>
 
-<!-- Add your own links here, for example LinkedIn and email, as more badges in the paragraph above. -->
+<p align="center">
+  <a href="https://youtu.be/1OpvXEW5M64"><img alt="Watch on YouTube" src="https://img.shields.io/badge/▶%20Watch%20on-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120e1a"></a>
+  <a href="https://seifpetit.github.io/Portfolio-room/"><img alt="Try the live demo" src="https://img.shields.io/badge/Try%20the%20live%20demo-seifpetit.github.io-7fe0c3?style=for-the-badge&labelColor=120e1a"></a>
+</p>
+
+<!-- Add your own links (LinkedIn, email) as more badges in the paragraph above. -->
 
 ---
 
 ## What I do
 
-- 🧰 **Tools to help people naviguate workflows:** editors, dashboards and automations that turn a messy workflow into a few clicks.
+- 🧰 **Tools to help people navigate workflows:** editors, dashboards and automations that turn a messy workflow into a few clicks.
 - 🗺️ **Spatial and interactive systems:** canvas scenes, pathfinding, hotspots and animation that react to the visitor.
 - 🧭 **Clarity first:** every screen has one job, and what it does is obvious in seconds.
 
 ## Featured: my portfolio is a room you walk through
 
-<table>
-  <tr>
-    <td width="62%">
-      <a href="https://github.com/Seifpetit/Portfolio-room"><b>Portfolio-room</b></a> is a pixel-art room with a capybara in
-      a teal hoodie. Click the floor and he walks there. The tech lab opens my projects, the desk my CV, the corkboard my
-      contact links.<br><br>
-      It's built from plain JavaScript and canvas, with a local editor of my own for the content, the zones he can walk
-      to, and the floor itself. The site speaks 4 languages.<br><br>
-      <a href="https://seifpetit.github.io/Portfolio-room/">▶ Open the live room</a> ·
-      <a href="https://github.com/Seifpetit/Portfolio-room">Source code</a>
-    </td>
-    <td width="38%" align="center">
-      <a href="https://seifpetit.github.io/Portfolio-room/"><img src="banner.png" alt="The portfolio room" width="100%"></a>
-    </td>
-  </tr>
-</table>
+[**Portfolio-room**](https://github.com/Seifpetit/Portfolio-room) is a pixel-art room with a capybara in a teal hoodie.
+Click the floor and he walks there. The tech lab opens my projects, the desk my CV, the corkboard my contact links.
+It's built from plain JavaScript and canvas, with a local editor of my own for the content, the zones he can walk to,
+and the floor itself. The site speaks 4 languages.
+
+[▶ Open the live room](https://seifpetit.github.io/Portfolio-room/) · [Source code](https://github.com/Seifpetit/Portfolio-room)
 
 ## Tools I work with
 
